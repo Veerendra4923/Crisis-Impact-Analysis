@@ -215,7 +215,7 @@ This dashboard now acts as QuickBite’s **crisis command center**.
 Add your dashboard images here:
 
 ```md
-![Dashboard Sample](https://github.com/username/repo/assets/dashboard.png)
+![Dashboard Sample](https://github.com/Veerendra4923/Crisis-Impact-Analysis/blob/main/Screenshot%202025-11-23%20155750.png)
 ```
 
 ---
