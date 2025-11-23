@@ -216,7 +216,6 @@ Add your dashboard images here:
 
 
 ![Dashboard Sample](https://github.com/Veerendra4923/Crisis-Impact-Analysis/blob/main/Screenshot%202025-11-23%20155750.png)
-```
 
 ---
 
