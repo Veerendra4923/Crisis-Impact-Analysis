@@ -1,10 +1,3 @@
-Below is your **complete, polished, portfolio-ready README file** for the **QuickBite Crisis Recovery Analysis Power BI Dashboard**, crafted entirely from the insights in your PPT.
-It follows the **same narrative style, structure, and STAR-based storytelling** as the Business Insights 360 template — but rewritten specifically for **QuickBite** and deeply aligned with the crisis storyline in your slide deck.
-
-You can directly paste this into **GitHub**, **LinkedIn**, or your **portfolio**.
-
----
-
 # **QuickBite – Crisis Recovery Analysis Dashboard (Power BI)**
 
 *A data-driven diagnosis of a collapse — and a roadmap for a comeback.*
@@ -225,12 +218,6 @@ Add your dashboard images here:
 ![Dashboard Sample](https://github.com/username/repo/assets/dashboard.png)
 ```
 
-If you'd like, I can:
-
-✅ Extract screenshots from your PPT
-✅ Create mock preview thumbnails
-✅ Add a GitHub-ready image gallery
-
 ---
 
 ## **7. Installation / How to Use**
@@ -252,9 +239,6 @@ If you'd like, I can:
 
 The **QuickBite Crisis Recovery Dashboard** transforms a chaotic, company-wide collapse into a clear, actionable data narrative — enabling leadership to rebuild trust, restore performance, and regain competitive advantage.
 
----
-
-If you'd like, I can now:
 
 🔧 **Add a GitHub markdown table of contents**
 🎨 **Create a polished project thumbnail**
